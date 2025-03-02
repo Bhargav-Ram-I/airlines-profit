@@ -42,7 +42,7 @@ The required libraries are listed in `requirements.txt`. You can generate this f
 
 Once you've installed the dependencies, you can run the analysis on your dataset.
 
-1. Place your Excel file (e.g., `flight_data.xlsx`) in the project directory.
+1. Place your Excel file (e.g., `flight_data.csv`) in the project directory.
 2. Modify the file path in the code to point to your Excel dataset.
 
 ### Running the Analysis
